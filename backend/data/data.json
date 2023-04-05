@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Pilsner Brguell",
+    "abv": 4.8,
+    "brewery": "Pilsnerovsky"
+  },
+  {
+    "id": 2,
+    "name": "Krusovicce",
+    "abv": 4,
+    "brewery": "Karlowy"
+  },
+  {
+    "id": 3,
+    "name": "Pilsner Brguell",
+    "abv": 4.8,
+    "brewery": "Pilsnerovsky"
+  },
+  {
+    "id": 4,
+    "name": "Kőbányai",
+    "abv": 5,
+    "brewery": "Kőbánya"
+  },
+  {
+    "id": 5,
+    "name": "Dreher",
+    "abv": 4.3,
+    "brewery": "Drheher Sörfőzde"
+  }
+]
